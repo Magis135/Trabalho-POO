@@ -24,7 +24,8 @@ Este projeto é um sistema de gerenciamento de bibliotecas que permite buscar li
    javac Main.java
 
 ## Vídeo Explicativo
-Para uma explicação visual e detalhada do projeto, assista ao nosso vídeo no YouTube.
+Para uma explicação visual e detalhada do projeto, assista ao nosso vídeo no YouTube:
+https://www.youtube.com/watch?v=nqb-DFQ8ktE
 
 
 ## Contribuidores
